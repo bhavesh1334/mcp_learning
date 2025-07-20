@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Bhavesh",
+        "email": "bhavesh1334@gmail.com",
+        "address": "121212",
+        "phone": "32232-2323"
+    },
+    {
+        "id": 2,
+        "name": "Aarav",
+        "email": "aarav@example.com",
+        "address": "Street 45, Mumbai",
+        "phone": "98765-43210"
+    },
+    {
+        "id": 3,
+        "name": "Sanya",
+        "email": "sanya@example.com",
+        "address": "Sector 22, Noida",
+        "phone": "99887-77665"
+    },
+    {
+        "id": 4,
+        "name": "Karan",
+        "email": "karan@example.com",
+        "address": "Plot 10, Delhi",
+        "phone": "90909-80808"
+    },
+    {
+        "id": 5,
+        "name": "Ishita",
+        "email": "ishita@example.com",
+        "address": "Banjara Hills, Hyderabad",
+        "phone": "91919-82828"
+    },
+    {
+        "id": 6,
+        "name": "arjun",
+        "email": "arjun@12dev.in",
+        "address": "naya colony",
+        "phone": "6767565645"
+    },
+    {
+        "id": 7,
+        "name": "bhim",
+        "email": "bhim@12dev.in",
+        "address": "naya colony",
+        "phone": "6767565645"
+    },
+    {
+        "id": 8,
+        "name": "ram",
+        "email": "ram@12dev.in",
+        "address": "naya colony",
+        "phone": "6767565645"
+    },
+    {
+        "id": 9,
+        "name": "dogesh bhai",
+        "email": "dogesh@dev.in",
+        "address": "123 Main St",
+        "phone": "123-456-7890"
+    },
+    {
+        "id": 10,
+        "name": "Jessica M. Turner",
+        "email": "jessica.turner82@gmail.com",
+        "address": "418 Willowbrook Lane, Apt 3B, Columbus, OH 43215",
+        "phone": "(614) 555-2378"
+    },
+    {
+        "id": 11,
+        "name": "Mamu Singh",
+        "email": "mamu.singh@example.com",
+        "address": "42 Maple Avenue, San Jose, CA 95112",
+        "phone": "+1-408-555-0198"
+    },
+    {
+        "id": 12,
+        "name": "shayam",
+        "email": "shyam@1334@dev.in",
+        "address": "new way",
+        "phone": "9890756456"
+    }
+]
